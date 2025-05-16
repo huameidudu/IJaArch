@@ -3,3 +3,7 @@
 ### 关于IJaArch
 
 IJaArch，即IJa档案馆，旨在记录已发现的有关旧世界的信息。
+
+---
+
+[查看源代码](https://www.github.com/huameidudu/IJaArch/)
