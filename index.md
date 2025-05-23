@@ -2,7 +2,7 @@
 
 ### 关于IJaArch
 
-IJaArch，即IJa档案馆，旨在记录已发现的有关旧世界的信息。
+IJaArch，即IJa档案馆，旨在记录已发现的有关[旧世界](http://huameidudu.github.io/_posts/2025-01-01-旧世界.md)的信息。
 
 ---
 
